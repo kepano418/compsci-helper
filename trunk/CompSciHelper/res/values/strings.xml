@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Computer Science Helper</string>
+    <string name="numberofnodes">Enter Number of Nodes</string>
+    <string name="textSorts">Sorts</string>
+    <string name="textTrees">Trees</string>
+    <string name="binarytree">Binary Tree</string>
+    <string name="kmap">K-Map</string>
+    <string name="next">Next Animation</string>
+    <string name="avl">Tree Data Structures</string>
+    <string name="sort">Sorts</string>
+    <string name="ssinglerotation">AVL Simple Single Rotation</string>
+    <string name="singlerotation">AVL Single Rotation</string>
+    <string name="doublerotation">AVL Double Rotation</string>
+    <string name="hash">Hashing</string>
+    <string name="linearprobe">Linear Probe</string>
+    <string name="quadradicprobe">Quadradic Probe</string>
+    <string name="chainingprobe">Chaining Probe</string>
+    <string name="probeselection">Select the Probe to use.</string>
+    <string name="avldelete">AVL Delete</string>
+    <string name="btreeinsert">B-tree Insertion</string>
+    <string name="addhashitem">Add Value</string>
+    <string name="hashlistheader">Click here to add new item.\nClick on the number to edit/delete item.</string>
+    <string name="maindisplay">Computer Science Helper</string>
+    <string name="quick">Quick Sort</string>
+    <string name="minfo">More Information</string>
+    <string name="sminfo">More Info</string>
+    <string name="movingfowardnote">***NOTE***\nTo move forward hit the volume down.</string>
+</resources>
